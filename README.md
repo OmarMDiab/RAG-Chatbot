@@ -12,7 +12,6 @@ Using huggingface and langchain this app offers: -
 
 ![Sample Chat with PDF](Sample_Runs/Chat_with_PDF.png)
 
-**Note:** You need to add an `.env` file with your huggingface api token with `(Permission: write)` or you can just run with your local model but make sure to uncomment the LlamaCpp code block in `get_conversation_chain` and pass your Model path
 
 ## Run
 
